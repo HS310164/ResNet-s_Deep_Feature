@@ -31,7 +31,7 @@ Outputs is 2048 dimensional vectors.
 ## Usage
 
 ```
-python main.py --input <input_dir> --output <output_dir> [ --only_hand]
+python main.py --input <input_dir> --output <output_dir> ( --only_hand)
 ```
 
 - input_dir
