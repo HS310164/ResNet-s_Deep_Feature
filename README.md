@@ -23,7 +23,7 @@ This code has the following requirements
 
 [ResNet-152](https://arxiv.org/abs/1512.03385) Pretrained [ImageNet](http://www.image-net.org) (Trained by Pytorch official)
 
-## Deep Feature
+## Deep Feature
 
 This code gets last Average Pooling output from each frames.  
 Outputs is 2048 dimensional vectors.
